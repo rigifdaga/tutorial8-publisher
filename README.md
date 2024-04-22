@@ -18,3 +18,8 @@
    Screenshot Berhasilnya menjalankan `cargo run` untuk mengirim 5 event memalui message brocker yang akan diproses oleh subscriber.
 
    [![Whats-App-Image-2024-04-22-at-11-35-12-7c2f594a.jpg](https://i.postimg.cc/jj2t7WjW/Whats-App-Image-2024-04-22-at-11-35-12-7c2f594a.jpg)](https://postimg.cc/fVGG4RmZ)
+
+5. Monitoring chart based on publisher 
+   Screenshot grafik antarmuka RabbitMQ yang menunjukkan adanya spike pada message rates karena menjalankan `cargo run` atau publisher berkali-kali. 
+
+   [![27ed8154-372a-4b2b-a2b5-1dc9af47ce3a.jpg](https://i.postimg.cc/qM8MPkGN/27ed8154-372a-4b2b-a2b5-1dc9af47ce3a.jpg)](https://postimg.cc/svgrSCqz)
